@@ -1,0 +1,58 @@
+Tips and Tricks for "surviving" RNJesus:
+
+	- Always have bed on you
+		-->You don't want to have a stationary base, for it could be destroyed by some commands
+		-->Therefore always refresh your respawn point, in case things go bad
+
+	- Always have a boat on you
+		--> Every kind of mobility is pure gold for some of the commands
+		--> Make sure you are as often as possible in the best position to escape quickly
+
+	- Don't stand near Chests / Furnaces / etc. when a command is bound to happen
+		--> Many commands destroy or replace blocks, you dont want that to happen to your chests and stuff
+
+	- If you play in Multiplayer don't wander off too far from each other
+		--> In a lot of cases, you want to be near your friends, to maybe retrieve lost stuff or help
+		    them out of a bad situation
+		--> But also don't stay too close, because otherwise you will get affected by their commands
+
+	- Make sure you have enough food to survive what ever comes at you
+		--> Food is essential for all the damage you are bound to take by the commands
+		--> or when you need to run away from something (remember: Mobility!)
+
+	- Better to be underground or on the surface?
+		--> There is no preference overall, it depends on the commands that happen
+		--> For some commands it is better to be underground
+		--> For others the surface is preferable
+
+	- Prepare emergency Stashes
+		--> just put some things in chests you don't need at the moment, in case things go bad for you
+		--> but don't forget where they are! You are allowed to save your XYZ coordinates! (F3)
+
+	- Always keep an eye on your coordinates
+		--> you are allowed to look at your coordinates and it is recommended to do it often
+		--> you should always know where you are in case you die or you get teleported or other stuff
+
+	- Try to get an ender-chest ASAP
+		--> on the long run this is the only place where valuable items are save and retrievable
+
+
+
+Tips an Tricks for RNJesus: Nether-Only:
+
+	- Most of the above Tips are useful here as well (except the bed one of course)
+
+	- The starting Portal gives you all the resources for a quick start
+		--> wood and stone is provided around the starting portal!
+
+	- The only save place you have until and if you manage to get a respawn anchor is the general spawn!
+		--> try to utilize the area around it as a base
+		--> try to avoid getting commands in this area, to avoid getting "spawn camped" by some commands
+
+	- try utilizig the nether roof whenever possible
+		--> some commands will destroy the nether roof. with luck you can use it as a relatively safe-travel
+
+	- Make a pathway to the end-portal-room
+		--> you get the coordinates in the beginning! So all you need to do is build a fast way to get there.
+
+	
