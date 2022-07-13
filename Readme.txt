@@ -1,4 +1,4 @@
-RNJesus - Version 1.0 created by Scyren-Production
+RNJesus - Version 1.0 created by Scyren-Production 
 
 If you want to support me, feel free to leave a Donation: 
 https://www.paypal.com/donate/?hosted_button_id=8BEW3ZAEKCMA4
