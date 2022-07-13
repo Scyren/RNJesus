@@ -1,0 +1,186 @@
+
+body {
+    height: 90vh;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    height: auto;
+    background-image: url("../views/backgroundv2.png");
+    font-size: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: top;
+    margin-top: 30px;
+}
+
+.center {
+    width: 510px;
+    margin: 0 auto;
+}
+
+label {
+    font-style: oblique;
+}
+
+.createdBy{
+    float: right;
+    font-family: "Times New Roman";
+    font-size: small;
+    width: 275px;
+    text-align: right;
+    margin-left: 100px;
+}
+
+.open {
+    color: #316650;
+    font-size: large;
+    border: black;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+input {
+    width: 250px;
+    height: 25px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    font-size: 18px;
+}
+
+input.serverPort {
+    width: 100px;
+}
+
+.overParent1 {
+    float: left;
+    width: 550px;
+    text-align: left;
+}
+.overParent2 {
+    float: left;
+    width: 550px;
+    text-align: left;
+}
+
+.overParent3 {
+    float: left;
+    width: 550px;
+    text-align: left;
+}
+
+.overParent4 {
+    float: left;
+    width: 550px;
+    text-align: left;
+}
+
+.parent1 {
+    float: left;
+    width: 275px;
+    margin-bottom: 10px;
+}
+.parent3 {
+    float: left;
+    width: 275px;
+    margin-bottom: 20px;
+}
+.parent5 {
+    float: left;
+    width: 275px;
+    margin-top: 20px;
+}
+
+.parent7 {
+    float: left;
+    width: 275px;
+}
+
+.ceasy {
+    float: left;
+}
+
+.easy {
+    width: 20px;
+}
+
+button {
+    width: 250px;
+    height: 40px;
+    border: none;
+    border-radius: 7px;
+    background-color: #541515;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.lEasy{
+    padding-top: 10px;
+}
+
+.qu {
+    margin-left: 1px;
+    margin-top: -4px;
+    font-family: "Cooper Black";
+    width: 10px;
+    height: 10px;
+    float: top;
+    text-align: center;
+    font-size: 14px;
+    border: none;
+    border-radius: 0;
+    color: darkcyan;
+    cursor: pointer;
+}
+
+.parentButton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+    width: 600px;
+    text-align: left;
+}
+
+.quitB {
+    margin-left: 10px;
+    float: left;
+    width: 250px;
+    background-color: #5c0606;
+}
+
+.genB {
+    margin-right: 10px;
+    float: left;
+    width: 250px;
+    background-color: #437b25;
+}
+
+.Donate {
+    width: 92px;
+    height: 36px;
+    border: none;
+    border-radius: 26px;
+    margin-left: 184px;
+}
+
+.donateContainer {
+    float: left;
+}
+.Image2 {
+    padding-right: 142px;
+    margin-left: -172px;
+}
+
+.QR {
+    margin-right: -185px;
+}
+
+.Image1 {
+    margin-left: -95px;
+    margin-top: -25px;
+}

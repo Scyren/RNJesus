@@ -1,0 +1,24 @@
+{
+  "name": "RNJesus",
+  "bin": "main.js",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^17.1.0",
+    "mineflayer": "^4.1.0",
+    "random-org": "^2.2.0",
+    "random-org-api": "^0.0.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.5.1",
+    "electron": "^17.1.0"
+  }
+}

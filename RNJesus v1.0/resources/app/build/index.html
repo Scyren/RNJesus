@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Bot Generator </title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="render.js"></script>
+</head>
+<body>
+<div class="center">
+    <div class="parent8">
+        <div class="child createdBy">created by: Scyren-Production</div>
+        <div class="child Image2">
+            <div class="donateContainer" id="donate-button-container">
+                <div class="Donate" id="donate-button"></div>
+                <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+                <script>
+                    PayPal.Donation.Button({
+                        env:'production',
+                        hosted_button_id:'8BEW3ZAEKCMA4',
+                        image: {
+                            src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
+                            alt:'Donate with PayPal button',
+                            title:'PayPal - The safer, easier way to pay online!',
+                        }
+                    }).render('#donate-button');
+                </script>
+                <img src="../views/QR-Code.png" class="QR" width="64" height="64">
+            </div>
+        </div>
+        <img class="child Image1" src="../views/RNJesus_Logo.png" width="300" height="150">
+    </div>
+
+    <div class="overParent1">
+         <div class="parent1">
+             <div class='child cPlayer1'><input type="text" class="Player1" id="Player1"></div>
+             <div class='child cPlayer1'><label for="Player1" class="lPlayer1">Player 1</label></div>
+         </div>
+
+         <div class="parent1">
+             <div class='child cPlayer2'><input type="text" class="Player2" id="Player2"></div>
+             <div class='child cPlayer2'><label for="Player2" class="lPlayer2">Player 2</label></div>
+         </div>
+    </div>
+
+    <br>
+
+    <div class="overParent2">
+        <div class="parent3">
+            <div class='child cPlayer3'><input type="text" class="Player3" id="Player3"></div>
+            <div class='child cPlayer3'><label for="Player3" class="lPlayer3">Player 3</label></div>
+        </div>
+
+        <div class="parent3">
+            <div class='child cPlayer4'><input type="text" class="Player4" id="Player4"></div>
+            <div class='child cPlayer4'><label for="Player4" class="lPlayer4">Player 4</label></div>
+        </div>
+    </div>
+    <div class="overParent4">
+        <div class="parent7">
+        <div class="child ceasy"><input type="text" class="Cooldown" id="Cooldown"></div>
+        <div class="child ceasy"><label for="Cooldown" class="lCooldown">Cooldown (in seconds)</label></div>
+        </div>
+        <div class="child ceasy"><input type="checkbox" id="easy" class="easy" value="easy"></div>
+        <div class="child ceasy"><label for="easy" class="lEasy">"Easy"-Mode</label></div>
+        <div class="child ceasy"><div class="qu" onclick="alert('Easy-Mode will disable a lot of commands, that would - with high chance - kill the Player (not all though).');">?</div></div>
+        <!--THIS IS CURRENTLY WORKED ON-->
+        <div class="child ceasy"><input type="checkbox" id="nether" class="easy" value="nether"></div>
+        <div class="child ceasy"><label for="easy" class="lEasy">Nether-Only</label></div>
+        <div class="child ceasy"><div class="qu" onclick="alert('Nether-Only is for a Nether-Only-Run (duh). It means you start in the Nether and get killed, if you leave it.');">?</div></div>
+    </div>
+    <br>
+    <div class="overParent3">
+        <div class="parent5">
+            <div class="child cserverAddress"><input type="text" class="serverAddress" id="serverAddress"></div>
+            <div class="child cserverAddress"><label for="serverAddress" class="lServerAddress">Server-Address</label></div>
+        </div>
+        <div class="parent5">
+            <div class="child cserverPort"><input type="text" class="serverPort" id="serverPort"></div>
+            <div class="child cserverPort"><label for="serverPort" class="lServerPort">Server-Port</label></div>
+        </div>
+    </div>
+    <br>
+    <div class="parentButton">
+        <div class="child gButton"><button class="genB" onclick="generateBot()">Generate Bot</button></div>
+        <div class="child gButton"><button class="quitB" onclick="quitBot()">Disconnect Bot</button></div>
+    </div>
+
+<div class="open" type="text">Leave this window open!<br>(Close it if you want to terminate the bot)</div>
+
+
+
+
+</div>
+</body>
+</html>
