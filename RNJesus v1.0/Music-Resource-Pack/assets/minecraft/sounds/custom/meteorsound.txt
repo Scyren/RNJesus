@@ -1,5 +1,0 @@
-{
-  "meteorsound": {
-    "sounds": [
-      "custom/meteorsound" ]
-  }}
