@@ -1,5 +1,7 @@
 RNJesus - Version 1.0 created by Scyren-Production
 
+If the RNJesus.exe is only 1KB in size after download, please download the .exe seperatly from this github. It should work fine after that.
+
 If you want to support me, feel free to leave a Donation: 
 https://www.paypal.com/donate/?hosted_button_id=8BEW3ZAEKCMA4
 
