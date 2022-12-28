@@ -11,7 +11,7 @@ WARNING: 	THIS BOT WILL DESTROY OR REPLACE BLOCKS AT HIS OWN WILL!
 		(Advise: Create a new Map for this Challenge or create a Backup for your existing Worlds!)
 
 
-RNJesus currently only works on Minecraft-Java-Edition!
+RNJesus currently only works on Minecraft-Java-Edition (only on 1.18.x)!
 
 After that, start the Program by just executing the "RNJesus.exe" file in the RNJesus-App folder.
 
